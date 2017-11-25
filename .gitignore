@@ -1,0 +1,7 @@
+# Ignore unwanted file formats
+*.csv
+*.pyc
+*.zip
+*.png
+*.dot
+svm_test.py
